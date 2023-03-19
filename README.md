@@ -1,0 +1,2 @@
+# Aspect-Oriented Programming
+Aspect-Oriented Programming (AOP) is a way of organizing code that separates common tasks, like logging, from the main code. It allows specific tasks to be reused across multiple parts of a program, making it easier to manage and reducing the amount of duplicated code.
